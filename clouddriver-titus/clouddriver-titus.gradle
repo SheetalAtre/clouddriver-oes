@@ -53,6 +53,7 @@ dependencies {
   testImplementation "org.spockframework:spock-spring"
   testImplementation "org.springframework:spring-test"
   testImplementation "io.spinnaker.kork:kork-test"
+  testImplementation "org.mockito:mockito-core"
 }
 
 sourceSets {
